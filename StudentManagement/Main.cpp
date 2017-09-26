@@ -6,10 +6,12 @@
 
 #include<iostream>
 #include<string>
+
+#define MaxSize 100
+
 using namespace std;
 typedef int status;
 typedef char ElemType;
-#define MaxSize 100
 
 //---------------------------------------------------------
 typedef struct                   // Define element type Achievement
